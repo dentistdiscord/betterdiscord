@@ -1708,14 +1708,14 @@ a:link {
     filter: none;
 }
 .channel-textarea-autocomplete-inner {
-    background: rgba(0, 0, 0, 0.84)!important;
+    background: rgba(0, 0, 0, 0.58)!important;
     border: none !important;
 }
 .channel-textarea-autocomplete-inner::after {
     display: none;
 }
 .channel-textarea-autocomplete-inner header {
-    background: rgba(0, 0, 0, 0.84)!important;
+    background: rgba(0, 0, 0, 0.58)!important;
     border-radius: 5px 5px 0 0;
     border: none !important;
 }
