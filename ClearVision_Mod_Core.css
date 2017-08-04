@@ -689,7 +689,7 @@ ld-channels ul .channel-voice-states li.speaking .avatar-small {
 .message-group .comment .markup pre code,
 .theme-dark .message-group .comment .markup pre code {
     background: transparent;
-    color: hsla(0, 0%, 100%, 0.7);
+    color: hsla(0, 0%, 100%, 0.45);
     overflow-x: visible;
 }
 .chat .title-wrap .topic a,
