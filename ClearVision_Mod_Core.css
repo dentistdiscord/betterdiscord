@@ -2445,7 +2445,7 @@ ul.bda-slist {
     background-color: var(--main-color);
 }
 .auth-tiling-bg {
-    background-color: #607084;
+    background-color: #2e3136;
 }
 .create-guild-container .action.create .action-icon,
 .create-guild-container .action.join .action-icon {
@@ -6843,7 +6843,7 @@ pre:hover .copybutton {
 /* CHANNEL TEXTAREA */
 .channel-textarea-inner {
     border: 2px solid hsla(0, 0%, 100%, 0.1) !important;
-    background: rgba(0, 0, 0, 0.5) !important;
+    background: rgba(0, 0, 0, 0.35) !important;
 }
 .channel-textarea-upload {
     background-image: none !important;
