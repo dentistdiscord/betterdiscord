@@ -1058,12 +1058,12 @@ textarea {
 }
 .chat > .content .messages .message-group .markup pre code.hljs {
     background: rgba(0, 0, 0, 0.42) !important;
-    color: hsla(0, 0%, 100%, 0.7) !important;
+    color: hsla(0, 0%, 100%, 0.4) !important;
     padding: 6px !important;
 }
 .chat > .content .messages .message-group .markup code.inline {
     background: hsla(0, 0%, 100%, 0.1) !important;
-    color: hsla(0, 0%, 100%, 0.7) !important;
+    color: hsla(0, 0%, 100%, 0.4) !important;
     padding: 3.5px 7.5px;
 }
 .chat > .content .messages .message-group .markup code.inline + pre {
